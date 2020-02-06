@@ -9,10 +9,13 @@ f = open("icon_files/icon_data.txt").readlines()
 
 #making list for file to go into
 iconList=[]
+
+
 for i in f:
+    #stripping the quotes( ' ' ) from the strings within list
     iconList.append(i.strip())
  
-#stripping the quotes( ' ' ) from the strings within list
+#switching strings to integers within the list
 iconList = [int(i) for i in iconList] 
 
 
