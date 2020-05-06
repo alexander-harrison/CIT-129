@@ -61,6 +61,8 @@ def processJailCSV():
     femaleCount.append(genderCount['F'])
     maleCount.append(genderCount['M'])
     
+    #Testing making sure everything works
+    
     #ageNowA = sum(ageNow)
     #ageBookingA = sum(ageAtBooking)
     #print(maleCount, femaleCount)
