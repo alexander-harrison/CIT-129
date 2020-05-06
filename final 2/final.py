@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 12 21:04:54 2020
+
 
 @author: alexander.harrison
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 12 20:04:29 2020
-
-@author: alexander.harrison
-"""
 #importing libraray for use within code
 import csv
 import matplotlib.pyplot as plt
