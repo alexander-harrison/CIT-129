@@ -13,7 +13,7 @@ import numpy as np
 #making a function
 def processJailCSV():
     """
- This function will be used to show how many black and white people there is in jail.
+
 
  Data used in this file was taken from: https://data.wprdc.org/dataset/allegheny-county-jail-daily-census/resource/1e9b0886-5756-413a-b35f-89746cf56fd9
 
